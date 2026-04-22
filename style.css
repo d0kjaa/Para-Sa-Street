@@ -1,0 +1,54 @@
+.logo img {
+  width: 200px;
+  height: auto;}
+
+body {
+  background-color: lightgrey;}
+
+.product-image {
+   max-width: 250px;
+   height: auto;
+  display: block;
+  border-radius: 20px;
+  
+}
+
+h2 {background-color: white ;
+  width: 420px;
+  height: 25px;
+  border-radius: 20px;
+}
+
+.product {background-color: white ;
+  width: 100px;
+  height: 20px;
+  border-radius: 10px;
+}
+
+
+h5 {margin: 5px;
+  font-size: 18px;
+}
+
+.button-link {
+  background-color: white;
+  color: black;
+  padding: 10px 10px;
+  text-decoration: none;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.button-link:hover {
+  background-color: #0056b3;
+  border-radius: 10px;
+}
+
+.contact-link {
+  background-color: white;
+  color: black;
+  padding: 8px 8px;
+  text-decoration: none;
+  border-radius: 20px;
+  font-weight: bold;
+}
